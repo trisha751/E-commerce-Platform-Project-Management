@@ -1,4 +1,6 @@
 # Project Management for building an E-commerce platform
+![header](Images/ecommerce-shopping-cart.jpg)
+
 ## Client Introduction
 Nearshop a small business platform, targeted primarily at local e-merchants, had a desktop version with a limited number of online tools for shop owners. Following the customer’s request, they plan to develop a native application connected to the initial platform. Expectations Expectations
 
@@ -20,15 +22,32 @@ The major challenge lied in the implementation of the synchronization feature wh
 
 ## Phases of Project
 #### 1. Define Project Charter
+![project_charter](Images/project%20charter%20document.jpg)
 
+#### 2. Identify Stakeholders - Stakeholder Mapping (Onion Diagram)
+![stakeholder_mapping](Images/Stakeholders%20Mapping.jpg)
 
-2. Identify Stakeholders
-3. Create Project Deliverables
-4. Identify 5 types of conflicts and how you plan to resolve them
-5. Create Scope Statement including WBS
-6. Create Project Schedule and Timeline (Gannt Chart and network diagram)
-7. Create Project Communication Plan
-8. Identify Risks and Responses
+#### 3. Create Project Deliverables
+[List of Project Deliverables](Final%20Project-Report.xlsx)
+
+#### 4. Identify 5 types of conflicts and how you plan to resolve them
+[List of Conflicts and Resolution Plan](Final%20Project-Report.xlsx)
+
+#### 5. Create Scope Statement including WBS
+[Work Breakdown Structure](Final%20Project-Report.xlsx)
+
+#### 6. Create Project Schedule and Timeline
+  1. Gantt Chart
+  ![Gantt Chart](Images/Gantt%20Chart.jpg)
+  
+  2. Network Diagram
+  ![Network Diagram](Images/Pet%20Chart.jpg)
+
+#### 7. Create Project Communication Plan
+[Communication Plan](Final%20Project-Report.xlsx)
+
+#### 8. Identify Risks and Responses
+[Risk Register with Responses](Final%20Project-Report.xlsx) 
 
 ## Expected Output
 The outcome of the project is a robust mobile solution with a modern and flexible architecture allowing to manage an online business in a convenient way. Apart from its desktop version, the platform is now available on smartphones and tablets.
