@@ -19,7 +19,9 @@ The application should provide the possibility to edit :
 The major challenge lied in the implementation of the synchronization feature when a shop administrator needs to commit changes made on the mobile application to the Nearshop backend. The stability of operation is secured even in poor mobile Internet conditions such as weak signal/connection or unexpected data loss.
 
 ## Phases of Project
-1. Define Project Charter
+#### 1. Define Project Charter
+
+
 2. Identify Stakeholders
 3. Create Project Deliverables
 4. Identify 5 types of conflicts and how you plan to resolve them
